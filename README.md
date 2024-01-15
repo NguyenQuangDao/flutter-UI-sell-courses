@@ -1,3 +1,3 @@
 ## Ảnh demo
 
-![Ảnh demo](assets/imgScreen.png)
+![Ảnh demo](imgScreen.png)
