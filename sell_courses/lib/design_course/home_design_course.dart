@@ -106,7 +106,7 @@ class _DesignCourseHomeScreenState extends State<DesignCourseHomeScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
           Text(
-            'Popular Course',
+            'Khóa học phổ biến',
             textAlign: TextAlign.left,
             style: TextStyle(
               fontWeight: FontWeight.w600,

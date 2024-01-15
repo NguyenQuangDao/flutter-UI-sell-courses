@@ -1,6 +1,6 @@
 import 'package:sell_courses/design_course/home_design_course.dart';
-import 'package:sell_courses/fitness_app/fitness_app_home_screen.dart';
-import 'package:sell_courses/hotel_booking/hotel_home_screen.dart';
+// import 'package:sell_courses/fitness_app/fitness_app_home_screen.dart';
+// import 'package:sell_courses/hotel_booking/hotel_home_screen.dart';
 import 'package:sell_courses/introduction_animation/introduction_animation_screen.dart';
 import 'package:flutter/widgets.dart';
 

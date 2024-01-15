@@ -8,7 +8,7 @@ class CourseInfoScreen extends StatefulWidget {
 
 class _CourseInfoScreenState extends State<CourseInfoScreen>
     with TickerProviderStateMixin {
-  final double infoHeight = 364.0;
+  final double infoHeight = 500.0;
   AnimationController? animationController;
   Animation<double>? animation;
   double opacity1 = 0.0;
